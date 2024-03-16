@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is AarushiMishra and I'm a Data Science</h2>
+<h2 align="left">Hi 👋! My name is Aarushi Mishra and I'm a Data Science enthusiast</h2>
 
 ###
 
